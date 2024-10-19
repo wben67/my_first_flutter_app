@@ -1,4 +1,4 @@
-# my_first_flutter_app - Testing git with github - Editing from Github
+# my_first_flutter_app - Testing git with github - Editing from Github - Testing 'pull' command
 
 A new Flutter project.
 
