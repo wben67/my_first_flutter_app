@@ -1,5 +1,5 @@
 # my_first_flutter_app - Testing git with github - Editing from Github - Testing 'pull' command
-# testing push a new branch to github
+# Setting ssh for git/github
 
 A new Flutter project.
 
